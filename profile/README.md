@@ -4,7 +4,7 @@
 
 La Agencia Mexicana de Estudios Antárticos facilita la información y recursos para el mejor entendimiento de los retos humanos, tecnológicos y socio-económicos derivados de los fenómenos climatológicos en la Antártida y su impacto en México.
 
-📭 Guía de contribuciones - Próximamente..
+📭 Guía de contribuciones - https://github.com/AmeaProyectos/Contribution-Guidelines
 
 👩‍💻 Recursos útiles - Próximamente..
 
@@ -12,7 +12,7 @@ La Agencia Mexicana de Estudios Antárticos facilita la información y recursos 
 
 The Mexican Agency for Antarctic Studies provides information and resources for a better understanding of the human, technological and socio-economic challenges derived from climate phenomena in Antarctica and their impact on Mexico.
 
-📭 Contribution guidelines - Coming soon..
+📭 Contribution guidelines - https://github.com/AmeaProyectos/Contribution-Guidelines
 
 👩‍💻 Useful resources - Coming soon..
 
